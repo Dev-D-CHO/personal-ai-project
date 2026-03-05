@@ -1,0 +1,21 @@
+가상환경 폴더 (업로드 금지)
+
+venv/
+env/
+.env
+
+파이썬 캐시
+
+pycache/
+*.pyc
+
+오디오 임시 파일
+
+temp_voice.wav
+tts_output.mp3
+
+모델 파일 (만약 폴더 안에 저장했다면)
+
+models/
+*.bin
+*.pt
